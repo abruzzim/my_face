@@ -1,6 +1,5 @@
 
 require 'sinatra' # Sinatra bundles with this call.
-require 'sinatra/reloader'
 require 'sinatra/activerecord'
 
 require 'bundler/setup'
